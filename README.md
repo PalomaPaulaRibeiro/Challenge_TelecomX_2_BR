@@ -60,7 +60,7 @@ Ações de retenção personalizadas para clientes com alto risco de evasão, co
 - Pandas
 - NumPy
 - Matplotlib
-- Sbn
+- Sns
 - Scikit-learn
 - Jupyter Notebook
 
